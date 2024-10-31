@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3dde1549d6e245f99770a31c5b8ca9e5/artifacts
+end_time: 1730398767885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3dde1549d6e245f99770a31c5b8ca9e5
+run_name: skillful-midge-836
+run_uuid: 3dde1549d6e245f99770a31c5b8ca9e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730398480566
+status: 3
+tags: []
+user_id: aravind

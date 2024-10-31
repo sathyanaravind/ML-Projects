@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9b0dd8ac70a6478b8a75a90fe9e2852a/artifacts
+end_time: 1730398480556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b0dd8ac70a6478b8a75a90fe9e2852a
+run_name: auspicious-cat-775
+run_uuid: 9b0dd8ac70a6478b8a75a90fe9e2852a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730398419981
+status: 3
+tags: []
+user_id: aravind

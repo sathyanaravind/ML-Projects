@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8fcc209e21964d9d80324a3f7b7e6007/artifacts
+end_time: 1730398980254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fcc209e21964d9d80324a3f7b7e6007
+run_name: fortunate-cow-768
+run_uuid: 8fcc209e21964d9d80324a3f7b7e6007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730398840027
+status: 3
+tags: []
+user_id: aravind

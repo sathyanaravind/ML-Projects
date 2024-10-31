@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6a23deff49ec4416af0b420ee49df276/artifacts
+end_time: 1730399049805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a23deff49ec4416af0b420ee49df276
+run_name: secretive-colt-126
+run_uuid: 6a23deff49ec4416af0b420ee49df276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730398983945
+status: 3
+tags: []
+user_id: aravind

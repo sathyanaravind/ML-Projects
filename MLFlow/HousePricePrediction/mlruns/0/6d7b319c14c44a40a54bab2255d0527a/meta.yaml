@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6d7b319c14c44a40a54bab2255d0527a/artifacts
+end_time: 1730398840016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d7b319c14c44a40a54bab2255d0527a
+run_name: victorious-moth-843
+run_uuid: 6d7b319c14c44a40a54bab2255d0527a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730398773562
+status: 3
+tags: []
+user_id: aravind

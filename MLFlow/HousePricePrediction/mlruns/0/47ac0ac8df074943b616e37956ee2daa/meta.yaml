@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/47ac0ac8df074943b616e37956ee2daa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47ac0ac8df074943b616e37956ee2daa
+run_name: spiffy-fawn-581
+run_uuid: 47ac0ac8df074943b616e37956ee2daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730399049817
+status: 1
+tags: []
+user_id: aravind
