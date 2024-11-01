@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aravind/Documents/MyProjects/mlops_bootcamp/mlflow/2_dlproject/mlruns/456956417688044841/ca4a5fdf15a341d2bf79211909c6c7ec/artifacts
+end_time: 1730484617662
+entry_point_name: ''
+experiment_id: '456956417688044841'
+lifecycle_stage: active
+run_id: ca4a5fdf15a341d2bf79211909c6c7ec
+run_name: powerful-squirrel-67
+run_uuid: ca4a5fdf15a341d2bf79211909c6c7ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730484617347
+status: 3
+tags: []
+user_id: aravind

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aravind/Documents/MyProjects/mlops_bootcamp/mlflow/2_dlproject/mlruns/456956417688044841/0318831dae1a436c8bc9f8302aeda41b/artifacts
+end_time: 1730484614711
+entry_point_name: ''
+experiment_id: '456956417688044841'
+lifecycle_stage: active
+run_id: 0318831dae1a436c8bc9f8302aeda41b
+run_name: thundering-midge-166
+run_uuid: 0318831dae1a436c8bc9f8302aeda41b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730484611514
+status: 3
+tags: []
+user_id: aravind

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730484769304
+current_stage: None
+description: ''
+last_updated_timestamp: 1730484769304
+name: best
+run_id: 8475ad5e4b6c44bb8a17e3fe150679a5
+run_link: ''
+source: file:///Users/aravind/Documents/MyProjects/mlops_bootcamp/mlflow/2_dlproject/mlruns/456956417688044841/8475ad5e4b6c44bb8a17e3fe150679a5/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/aravind/Documents/MyProjects/mlops_bootcamp/mlflow/2_dlproject/mlruns/456956417688044841/8475ad5e4b6c44bb8a17e3fe150679a5/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aravind/Documents/MyProjects/mlops_bootcamp/mlflow/2_dlproject/mlruns/456956417688044841/94c5515b310547b281be1596e3b95048/artifacts
+end_time: 1730484611853
+entry_point_name: ''
+experiment_id: '456956417688044841'
+lifecycle_stage: active
+run_id: 94c5515b310547b281be1596e3b95048
+run_name: casual-doe-39
+run_uuid: 94c5515b310547b281be1596e3b95048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730484611538
+status: 3
+tags: []
+user_id: aravind

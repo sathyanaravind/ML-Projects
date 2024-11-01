@@ -1,0 +1,6 @@
+artifact_location: file:///Users/aravind/Documents/MyProjects/mlops_bootcamp/mlflow/2_dlproject/mlruns/456956417688044841
+creation_time: 1730484611509
+experiment_id: '456956417688044841'
+last_update_time: 1730484611509
+lifecycle_stage: active
+name: wine-quality

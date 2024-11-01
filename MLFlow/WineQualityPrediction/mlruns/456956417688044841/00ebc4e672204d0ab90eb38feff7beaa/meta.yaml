@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aravind/Documents/MyProjects/mlops_bootcamp/mlflow/2_dlproject/mlruns/456956417688044841/00ebc4e672204d0ab90eb38feff7beaa/artifacts
+end_time: 1730484620454
+entry_point_name: ''
+experiment_id: '456956417688044841'
+lifecycle_stage: active
+run_id: 00ebc4e672204d0ab90eb38feff7beaa
+run_name: lyrical-bird-217
+run_uuid: 00ebc4e672204d0ab90eb38feff7beaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730484620146
+status: 3
+tags: []
+user_id: aravind

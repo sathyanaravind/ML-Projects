@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aravind/Documents/MyProjects/mlops_bootcamp/mlflow/2_dlproject/mlruns/456956417688044841/e19547667479404682ff7a0a1db574fd/artifacts
+end_time: 1730484617333
+entry_point_name: ''
+experiment_id: '456956417688044841'
+lifecycle_stage: active
+run_id: e19547667479404682ff7a0a1db574fd
+run_name: stately-goat-210
+run_uuid: e19547667479404682ff7a0a1db574fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730484614713
+status: 3
+tags: []
+user_id: aravind

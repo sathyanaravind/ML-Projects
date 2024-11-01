@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aravind/Documents/MyProjects/mlops_bootcamp/mlflow/2_dlproject/mlruns/456956417688044841/be25881efc8b47a2afc70e039b8f1f5c/artifacts
+end_time: 1730484620132
+entry_point_name: ''
+experiment_id: '456956417688044841'
+lifecycle_stage: active
+run_id: be25881efc8b47a2afc70e039b8f1f5c
+run_name: carefree-goose-284
+run_uuid: be25881efc8b47a2afc70e039b8f1f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730484617335
+status: 3
+tags: []
+user_id: aravind
